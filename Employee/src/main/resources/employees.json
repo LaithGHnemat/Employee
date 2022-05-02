@@ -1,0 +1,44 @@
+[
+  {
+    "extensionNumber": 632,
+    "firstName": "John",
+    "middleName": "Zakaria",
+    "lastName": "",
+    "mobileNumber": "529853225",
+    "email": "john@farabi.ae",
+    "employmentId": 1,
+    "employmentType": "permanent"
+  },
+  {
+    "extensionNumber": 600,
+    "firstName": "Kamini",
+    "middleName": "Krishna",
+    "lastName": "Menon",
+    "mobileNumber": "566333225",
+    "email": "kamini@farabi.ae",
+    "employmentId": 2,
+    "employmentType": "Intern"
+  },
+  {
+    "extensionNumber": 623,
+    "firstName": "Kalyan",
+    "middleName": "Lohitha",
+    "lastName": "Warrier",
+    "mobileNumber": "529852369",
+    "email": "kalyanfarabi.ae",
+    "employmentId": 3,
+    "employmentType": "Contract"
+  },
+  {
+    "extensionNumber": 609,
+    "firstName": "Peter",
+    "middleName": "",
+    "lastName": "Jones",
+    "mobileNumber": "236965325",
+    "email": "peter@farabi.a",
+    "employmentId": 4,
+    "employmentType": "Permanent"
+  }
+
+
+  ]
